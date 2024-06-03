@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gingeryginger
+- 👀 I’m interested in ROM hacking Pokémon gen 2 and 3
+- 🌱 I’m currently learning how to hack Crystal
